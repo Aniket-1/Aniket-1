@@ -1,4 +1,4 @@
-### Nama-stay, I am Aniket 🙏
+### Hey, I am Aniket 🙌
 
 <!--
 **Aniket-1/Aniket-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
