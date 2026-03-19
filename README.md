@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++ and Go**
 
-- 💬 Ask me about **NextJS, MERN, Java, Python**
+- 💬 Ask me about **Distributed Systems, Infrastructure Engineering, Cloud Computing**
 
 - 📫 How to reach me **aniket18101@gmail.com**
 
