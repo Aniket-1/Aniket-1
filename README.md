@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">An enthusiatic full stack developer, pursuing MSCS @ University of Colorado, Boulder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-1&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-1" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=aniket-1&label=Profile%20views&color=0e75b6&style=flat](https://avatars.githubusercontent.com/u/54828448?v=4)" alt="aniket-1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket-1" alt="aniket-1" /></a> </p>
 
