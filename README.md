@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">An enthusiatic full stack developer, pursuing MSCS @ University of Colorado, Boulder</h3>
 
-- 🔭 I’m currently working on **building things in Java Spring and NextJS**
+- 🔭 I’m currently working as **SWE Infra at Workday**
 
 - 🌱 I’m currently learning **C++ and Go**
 
